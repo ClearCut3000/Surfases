@@ -13,6 +13,7 @@
 		36DA9BE326FF2C37008DA6EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36DA9BE126FF2C37008DA6EB /* Main.storyboard */; };
 		36DA9BE526FF2C3C008DA6EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36DA9BE426FF2C3C008DA6EB /* Assets.xcassets */; };
 		36DA9BE826FF2C3C008DA6EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36DA9BE626FF2C3C008DA6EB /* LaunchScreen.storyboard */; };
+		36DA9BEF270113DC008DA6EB /* Screenshots in Resources */ = {isa = PBXBuildFile; fileRef = 36DA9BEE270113DC008DA6EB /* Screenshots */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		36DA9BE226FF2C37008DA6EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		36DA9BE426FF2C3C008DA6EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		36DA9BE726FF2C3C008DA6EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		36DA9BEE270113DC008DA6EB /* Screenshots */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Screenshots; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		36DA9BDA26FF2C37008DA6EB /* Surfases */ = {
 			isa = PBXGroup;
 			children = (
+				36DA9BEE270113DC008DA6EB /* Screenshots */,
 				36DA9BDB26FF2C37008DA6EB /* AppDelegate.swift */,
 				36DA9BDD26FF2C37008DA6EB /* art.scnassets */,
 				36DA9BDF26FF2C37008DA6EB /* ViewController.swift */,
@@ -127,6 +130,7 @@
 				36DA9BE826FF2C3C008DA6EB /* LaunchScreen.storyboard in Resources */,
 				36DA9BE526FF2C3C008DA6EB /* Assets.xcassets in Resources */,
 				36DA9BE326FF2C37008DA6EB /* Main.storyboard in Resources */,
+				36DA9BEF270113DC008DA6EB /* Screenshots in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
